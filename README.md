@@ -1,5 +1,13 @@
 All that comes from my blog [Dominik Tamiołło blog](http://dominiktamiollo.pl)
 
+## How to compile
+
+You gonna need nasm and golink in your PATH variable available. Then you can run batch script. 
+
+``` 
+compile.bat
+```
+
 # je and jne instructions together
 ------
 
