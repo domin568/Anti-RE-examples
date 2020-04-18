@@ -230,4 +230,4 @@ As we can see logic of program is broken, IDA couldn't examine connection betwee
 
 More complex example of using this technique and others you can see at my CTF challenge at CTFlearn (click on it).
 
-![https://ctflearn.com/challenge/892](img/ctflearn.png)
+[![CTFlearn Forbidden executable](img/ctflearn.png)](https://ctflearn.com/challenge/892)
